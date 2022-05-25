@@ -1,0 +1,16 @@
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\bin\Debug\netcoreapp3.1\Mini project form.exe
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\bin\Debug\netcoreapp3.1\Mini project form.deps.json
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\bin\Debug\netcoreapp3.1\Mini project form.runtimeconfig.json
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\bin\Debug\netcoreapp3.1\Mini project form.runtimeconfig.dev.json
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\bin\Debug\netcoreapp3.1\Mini project form.dll
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\bin\Debug\netcoreapp3.1\Mini project form.pdb
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\obj\Debug\netcoreapp3.1\Mini project form.csprojAssemblyReference.cache
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\obj\Debug\netcoreapp3.1\Mini_project_form.Form1.resources
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\obj\Debug\netcoreapp3.1\Mini project form.csproj.GenerateResource.cache
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\obj\Debug\netcoreapp3.1\Mini project form.AssemblyInfoInputs.cache
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\obj\Debug\netcoreapp3.1\Mini project form.AssemblyInfo.cs
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\obj\Debug\netcoreapp3.1\Mini project form.csproj.CoreCompileInputs.cache
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\obj\Debug\netcoreapp3.1\Mini project form.dll
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\obj\Debug\netcoreapp3.1\Mini project form.pdb
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\obj\Debug\netcoreapp3.1\Mini project form.genruntimeconfig.cache
+C:\Users\Ziad\source\repos\Mini project form\Mini project form\obj\Debug\netcoreapp3.1\Mini project form.GeneratedMSBuildEditorConfig.editorconfig
